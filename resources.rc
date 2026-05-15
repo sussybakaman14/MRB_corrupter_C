@@ -1,0 +1,6 @@
+#include "resource.h"
+
+MAINICON ICON "icon.ico"
+IDR_ALERT   WAVE "alert.wav"
+IDR_GLITCH  WAVE "glitch.wav"
+IDR_ERROR   WAVE "error.wav"
