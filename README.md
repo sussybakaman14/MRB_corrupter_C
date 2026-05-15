@@ -50,4 +50,4 @@ Nelle architetture hardware moderne (sistemi UEFI stabili con tabelle di partizi
 
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto Licenza UNLICENZE - Consulta il file [LICENSE](LICENSE) per ulteriori dettagli.
+Questo progetto è rilasciato sotto Licenza MIT - Consulta il file [LICENSE](LICENSE) per ulteriori dettagli.
